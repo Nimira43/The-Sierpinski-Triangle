@@ -1,4 +1,4 @@
-document.addEventListener('DOMContentLoaded', function() {
+document.addEventListener('DOMContentLoaded', () => {
   const canvas = document.getElementById('sierpinskiCanvas')
   canvas.width = 600; 
   canvas.height = 600;
