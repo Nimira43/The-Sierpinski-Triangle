@@ -12,4 +12,6 @@ for i in range(1, N):
   sy[i] = sy[i - 1] / 2
   if k == 2:
     sy[i] += 2
-    
+
+plt.plot(sx, sy, 'k.', markersize=1)
+plt.show()
