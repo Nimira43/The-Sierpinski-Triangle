@@ -1,5 +1,7 @@
 document.addEventListener('DOMContentLoaded', function() {
   const canvas = document.getElementById('sierpinskiCanvas')
+  canvas.width = 600; 
+  canvas.height = 600;
   const ctx = canvas.getContext('2d')
 
   const N = 10000
@@ -8,8 +10,8 @@ document.addEventListener('DOMContentLoaded', function() {
 
   for (let i = 1; i < N; i++) {
     const k = Math.floor(Math.random() * 3) + 1
-    sx[i] = sx[i - 1] / (k - 1)
-    sy[i] = sy[i - 1]
+    sx[i] = sx[i - 1] / 2 + (k - 1)
+    sy[i] = sy[i - 1] / 2
     if (k === 2) {
       sy[i] += 2
     }
