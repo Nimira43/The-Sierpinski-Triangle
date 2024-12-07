@@ -85,6 +85,8 @@
 
 # Wacław Sierpiński
 
+![Alt text](images/Wacław_Sierpiński.jpg)
+
 ###### Wacław Sierpiński was a remarkable Polish mathematician born on March 14, 1882, in Warsaw, which was then part of the Russian Empire. He made significant contributions to several areas of mathematics, including set theory, number theory, topology, and the theory of functions1.
 
 #### Early Life and Education:
@@ -110,3 +112,6 @@
 
 #### Legacy:
 ###### Sierpiński's work has had a lasting impact on mathematics, and his name is associated with several fundamental concepts and theorems. He passed away on October 21, 1969, in Warsaw, leaving behind a rich legacy of mathematical discoveries.
+
+###### Wikipedia: https://en.wikipedia.org/wiki/Wac%C5%82aw_Sierpi%C5%84ski
+
